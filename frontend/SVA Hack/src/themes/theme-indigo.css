@@ -1,0 +1,18 @@
+html[data-theme="indigo"],
+[data-theme="indigo"] {
+  --bg: #F7F5EF;
+  --surface: #FFFFFF;
+  --ink: #1F2A5C;
+  --muted: #6B7090;
+  --accent: #D9A21B;
+  --accent-2: #3B4A9B;
+  --accent-soft: #ECEEFA;
+  --line: #DDE0F0;
+  --quote-bg: #ECEEFA;
+  --on-accent: #1F2A5C;
+  --font-head: 'DM Serif Display', Georgia, serif;
+  --font-body: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  --radius: 16px;
+  --shadow: 0 8px 30px rgba(31, 42, 92, 0.08);
+  --card-shadow: 0 4px 18px rgba(31, 42, 92, 0.05);
+}

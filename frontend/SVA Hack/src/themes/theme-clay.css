@@ -1,0 +1,18 @@
+html[data-theme="clay"],
+[data-theme="clay"] {
+  --bg: #2A1E17;
+  --surface: #38291F;
+  --ink: #F3E6D3;
+  --muted: #B59F86;
+  --accent: #C9894F;
+  --accent-2: #8C5A3C;
+  --accent-soft: #4A3427;
+  --line: #4D3A2D;
+  --quote-bg: #43322A;
+  --on-accent: #2A1E17;
+  --font-head: 'DM Serif Display', Georgia, serif;
+  --font-body: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  --radius: 14px;
+  --shadow: none;
+  --card-shadow: none;
+}

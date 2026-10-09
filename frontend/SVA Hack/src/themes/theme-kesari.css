@@ -1,0 +1,18 @@
+html[data-theme="kesari"],
+[data-theme="kesari"] {
+  --bg: #FBF6EC;
+  --surface: #FFFFFF;
+  --ink: #3B2A1A;
+  --muted: #8A7358;
+  --accent: #E08A2E;
+  --accent-2: #F2C38A;
+  --accent-soft: #FBE7C8;
+  --line: #E9DCC3;
+  --quote-bg: #FFF1D6;
+  --on-accent: #FFFFFF;
+  --font-head: 'DM Serif Display', Georgia, serif;
+  --font-body: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  --radius: 20px;
+  --shadow: 0 8px 30px rgba(224, 138, 46, 0.15);
+  --card-shadow: 0 4px 20px rgba(59, 42, 26, 0.06);
+}

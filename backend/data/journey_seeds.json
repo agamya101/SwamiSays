@@ -1,0 +1,195 @@
+{
+  "journeys": {
+    "1": {
+      "id": 1,
+      "slug": "fearlessness",
+      "name": "Fearlessness",
+      "painPoint": "I'm scared of failure, rejection, judgment",
+      "keywords": [
+        "scared", "fear", "anxious", "nervous", "judgment", "judged", "presentation", "public speaking",
+        "stage fright", "awkward", "shy", "embarrassed", "terrified", "exam fear", "paralyzed",
+        "people think", "what will they say", "log kya kahenge", "darr", "dar lag raha", "ghabrahat",
+        "bheed se darr", "reject ho jaunga", "rejection", "taking risks"
+      ],
+      "seeds": [
+        "I'm terrified of speaking in front of my class and looking stupid",
+        "Everyone is judging my clothes and how I talk",
+        "I have major exam anxiety and feel paralyzed",
+        "Scared of rejection if I ask someone or try something new",
+        "Stage fright makes my hands shake during presentations",
+        "Mujhe stage pe bolne me bohot dar lagta hai",
+        "Exam ka bohot darr lag raha hai fail ho gaya toh kya hoga",
+        "Log kya kahenge agar main fail ho gaya",
+        "I'm scared to put myself out there because of judgment",
+        "Constant fear of making a fool of myself in public"
+      ]
+    },
+    "2": {
+      "id": 2,
+      "slug": "self-faith",
+      "name": "Self-Faith",
+      "painPoint": "I'm not good enough / self-doubt / insecurity",
+      "keywords": [
+        "not good enough", "imposter", "impostor", "fraud", "self doubt", "doubt", "insecure", "insecurity",
+        "unworthy", "inferior", "talentless", "loser", "hate myself", "no confidence", "zero confidence",
+        "believe in myself", "self esteem", "low self esteem", "meri aukaat", "main kisi kaam ka nahi",
+        "mujhme koi talent nahi", "apne aap par bharosa nahi"
+      ],
+      "seeds": [
+        "I feel like an imposter and everyone will realize I'm not that smart",
+        "I doubt myself every single day, I feel completely talentless",
+        "Everyone else seems confident but I feel like a total loser",
+        "I don't think I'm good enough to get this job or pass",
+        "Deep insecurity that I don't deserve the good things in my life",
+        "Apne aap par bilkul vishwas nahi hota lagta hai main sabse peeche hu",
+        "Lagta hai main fraud hu sab mujhe over-smart samajhte hain",
+        "I have zero self-esteem and constantly tear myself down",
+        "I keep asking others for validation because I don't trust myself",
+        "I feel completely unworthy and lack any self-belief"
+      ]
+    },
+    "3": {
+      "id": 3,
+      "slug": "focus",
+      "name": "Focus",
+      "painPoint": "My mind is everywhere / phone addiction / overthinking",
+      "keywords": [
+        "focus", "distracted", "distraction", "concentration", "attention", "cant focus", "can't focus",
+        "phone", "scrolling", "instagram", "reels", "shorts", "multitask", "procrastinating", "procrastination",
+        "studying", "mind everywhere", "overthinking", "brain rot", "dhyan nahi lagta", "padhai me man nahi lagta",
+        "phone addiction", "scroll karta rehta hu", "mind wandering", "flickering"
+      ],
+      "seeds": [
+        "I keep checking Instagram reels while studying and can't concentrate",
+        "My attention span is completely fried, I can't read a page without checking my phone",
+        "Padhte waqt dhyan bhatak jata hai aur 2 ghante phone scroll ho jata hai",
+        "I overthink every small detail and can't get any work done",
+        "Brain rot from endless doom-scrolling, my brain feels foggy",
+        "Cannot sit down for 30 minutes of deep focus without getting distracted",
+        "Dhyan ek jagah tikta hi nahi hai, mann idhar udhar bhatakta hai",
+        "Constant notifications breaking my workflow and train of thought",
+        "Mind is everywhere at once, jumping from thought to thought",
+        "Procrastinating on my laptop opening twenty tabs instead of working"
+      ]
+    },
+    "4": {
+      "id": 4,
+      "slug": "purpose",
+      "name": "Purpose",
+      "painPoint": "I don't know what I'm doing with my life / career confusion",
+      "keywords": [
+        "lost", "direction", "purpose", "career", "future", "what to do with my life", "confused about career",
+        "too many options", "no goal", "pointless", "aimless", "quarter life crisis", "which way",
+        "career choice", "passion", "raste me bhatak gaya", "future ki tension", "kya karu samajh nahi aa raha",
+        "zindagi me kya karna hai", "one idea"
+      ],
+      "seeds": [
+        "I have no idea what I'm doing with my life and feel completely lost",
+        "Confused about my career path, there are too many options and no clear direction",
+        "Mujhe samajh nahi aa raha main apni life ke saath kya karu",
+        "All my friends have chosen their careers and I'm just drifting aimlessly",
+        "I don't know what my passion or purpose is, everything feels arbitrary",
+        "Feeling stuck at a crossroads, afraid to pick the wrong college or job",
+        "Zindagi me koi lakshya nahi dikh raha bas din kat rahe hain",
+        "Should I follow stability or passion? I have no one clear idea",
+        "Drifting from one half-dream to another without committing to anything",
+        "No north star in life, total confusion about who I want to become"
+      ]
+    },
+    "5": {
+      "id": 5,
+      "slug": "persistence",
+      "name": "Persistence",
+      "painPoint": "I failed / setbacks / wanting to quit",
+      "keywords": [
+        "failed", "failure", "quit", "giving up", "give up", "rejected", "rejection", "stumbled",
+        "cant do this", "done trying", "give up trying", "tired of trying", "setback", "attempts",
+        "upsc", "jee", "neet", "interview rejected", "har maan li", "koshish karke thak gaya",
+        "ab aur nahi hota", "fail ho gaya"
+      ],
+      "seeds": [
+        "I failed my exam again and I just want to give up and quit",
+        "Got rejected from five job interviews in a row, I'm done trying",
+        "Har baar koshish karta hu aur har baar fail ho jata hu, ab himmat nahi bachi",
+        "I put months of effort into this project and it crashed completely",
+        "Feeling like throwing in the towel because nothing is working out",
+        "Repeated setbacks make me feel like I should just walk away",
+        "Ek saal preparation ki phir bhi result nahi aaya, ab man karta hai chhod du",
+        "Why keep trying when every attempt ends in embarrassment?",
+        "Tired of dusting myself off only to fall right back down",
+        "I want to quit everything, the mountain is just too high"
+      ]
+    },
+    "6": {
+      "id": 6,
+      "slug": "strength",
+      "name": "Strength",
+      "painPoint": "I'm drained, anxious, burnt out / mentally weak",
+      "keywords": [
+        "burnt out", "burnout", "drained", "exhausted", "tired", "energy", "weak", "mentally weak",
+        "body", "sleep", "overworked", "collapse", "heaviness", "no energy", "fatigue",
+        "thak gaya hu", "shakti nahi hai", "kamzor mehsoos", "dimag thak gaya", "resilience"
+      ],
+      "seeds": [
+        "I'm completely burnt out, working 14 hours a day and running on empty",
+        "Mentally drained to the point where even getting out of bed feels hard",
+        "Body is exhausted, brain feels weak, zero physical or mental energy left",
+        "Bohot thak chuka hu dimag bilkul blank ho gaya hai burnout ho raha hai",
+        "Anxiety and exhaustion have broken my resilience completely",
+        "Feeling mentally weak, every tiny problem feels like an avalanche",
+        "Running on caffeine and stress, sleep schedule is totally destroyed",
+        "Meri mental energy zero ho chuki hai, kisi cheez ka dam nahi bacha",
+        "Deep burnout from months of continuous pressure and no recovery",
+        "I feel frail and brittle inside, easily snapped by the smallest stress"
+      ]
+    },
+    "7": {
+      "id": 7,
+      "slug": "self-mastery",
+      "name": "Self-Mastery",
+      "painPoint": "Can't control thoughts, emotions, habits / anger / envy",
+      "keywords": [
+        "control", "anger", "angry", "gussa", "irritated", "short tempered", "temper",
+        "habits", "bad habit", "impulses", "impulsive", "jealous", "jealousy", "envy",
+        "comparing", "comparison", "everyone is doing better", "instagram envy", "fomo",
+        "validation", "apne gusse par kabu nahi", "mann par control nahi", "bura lagta hai doosro ko dekh kar"
+      ],
+      "seeds": [
+        "I lose my temper over tiny things and regret it immediately afterwards",
+        "Seeing everyone succeed on Instagram makes me violently jealous and bitter",
+        "I can't control my impulses and keep relapsing into bad habits",
+        "Gusse me kuch bhi bol deta hu aur baad me pachhtata hu",
+        "Envy is eating me alive whenever my friends post their achievements",
+        "Zero self-control over my emotions, a single comment ruins my whole day",
+        "Doosron ko dekh kar lagta hai sab aage nikal gaye, jealousy hoti hai",
+        "Addicted to cheap dopamine and cannot rule my own mind",
+        "Reactionary behavior: I snap at people I care about and can't pause",
+        "Constantly seeking validation from others and obsessing over their approval"
+      ]
+    },
+    "8": {
+      "id": 8,
+      "slug": "service",
+      "name": "Service",
+      "painPoint": "Stuck in myself / life feels empty / want larger meaning",
+      "keywords": [
+        "empty", "emptiness", "meaning", "pointless", "why bother", "selfish", "lonely", "isolated",
+        "success feels empty", "larger purpose", "help others", "give back", "contribution",
+        "compassion", "society", "khali khali lagta hai", "sab kuch hoke bhi khush nahi",
+        "doosro ki madad", "seva", "meaningful life"
+      ],
+      "seeds": [
+        "I hit my personal goals but life still feels hollow and empty inside",
+        "Stuck inside my own tiny ego, I want my life to matter for something bigger",
+        "Sab kuch hai mere paas phir bhi ek ajeeb sa khalipan mehsoos hota hai",
+        "I want to help others and contribute to society, not just chase money",
+        "Self-centered ambition is making me feel isolated and depressed",
+        "Why am I only living for myself? There has to be a larger meaning",
+        "Success feels meaningless without serving something greater than me",
+        "Khel khatam hone ke baad bhi khushi nahi mili, kuch bada karna hai desh ya logo ke liye",
+        "Tired of obsessing about my own career and want to build something for others",
+        "Yearning for a sense of service and genuine compassion for people around me"
+      ]
+    }
+  }
+}

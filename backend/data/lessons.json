@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "slug": "fearlessness",
+    "title": "Fearlessness",
+    "painPoint": "Fear of failure, rejection, judgment, public speaking, taking risks",
+    "summary": "Fear is the root of misery; strength is life. Break out of the mental spotlight where everyone is watching you.",
+    "icon": "shield",
+    "quoteIds": ["q1", "q2", "q10"]
+  },
+  {
+    "id": 2,
+    "slug": "self-faith",
+    "title": "Self-Faith",
+    "painPoint": "Self-doubt, insecurity, comparison, “I’m not good enough”",
+    "summary": "All power is already within you. You cannot believe in anything outside until you believe in who you are.",
+    "icon": "sparkles",
+    "quoteIds": ["q3", "q4"]
+  },
+  {
+    "id": 3,
+    "slug": "focus",
+    "title": "Focus",
+    "painPoint": "Distraction, overthinking, phone addiction, inability to concentrate",
+    "summary": "Concentration is the real key to knowledge. The scattered mind flickers; the focused mind illuminates.",
+    "icon": "target",
+    "quoteIds": ["q5", "q6"]
+  },
+  {
+    "id": 4,
+    "slug": "purpose",
+    "title": "Purpose",
+    "painPoint": "Feeling lost, confused about life/career, too many directions, lack of meaning",
+    "summary": "Take one idea and make that idea your life. Live, breathe, and embody it instead of chasing ten half-dreams.",
+    "icon": "compass",
+    "quoteIds": ["q7", "q8"]
+  },
+  {
+    "id": 5,
+    "slug": "persistence",
+    "title": "Persistence",
+    "painPoint": "Failure, setbacks, wanting to quit, repeated rejection",
+    "summary": "Rise after every fall. Even if you fail a thousand times, make another attempt until the goal is met.",
+    "icon": "flame",
+    "quoteIds": ["q8", "q9"]
+  },
+  {
+    "id": 6,
+    "slug": "strength",
+    "title": "Strength",
+    "painPoint": "Burnout, feeling mentally weak, lack of resilience, difficult periods",
+    "summary": "Muscles of iron, nerves of steel. Anything that makes you weak physically or mentally, reject as poison.",
+    "icon": "zap",
+    "quoteIds": ["q10", "q11"]
+  },
+  {
+    "id": 7,
+    "slug": "self-mastery",
+    "title": "Self-Mastery",
+    "painPoint": "Anger, impulses, bad habits, validation, jealousy, controlling reactions",
+    "summary": "Conquer yourself, not others. True power is ruling your own reactions when social media feeds trigger envy.",
+    "icon": "eye",
+    "quoteIds": ["q12", "q13"]
+  },
+  {
+    "id": 8,
+    "slug": "service",
+    "title": "Service",
+    "painPoint": "Selfishness, lack of purpose, helping others, empathy, social responsibility",
+    "summary": "They alone live, who live for others. Shift your axis from your own tiny ego to something larger than yourself.",
+    "icon": "heart",
+    "quoteIds": ["q14", "q15"]
+  }
+]
